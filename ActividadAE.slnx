@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/api/" />
+  <Project Path="ActividadAE.AppHost/ActividadAE.AppHost.csproj" />
+  <Project Path="ActividadAE.ServiceDefaults/ActividadAE.ServiceDefaults.csproj" />
   <Project Path="Api/Api.csproj" />
   <Project Path="Application/Application.csproj" />
   <Project Path="Domain/Domain.csproj" />
